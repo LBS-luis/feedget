@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-[#09090A] text-zinc-100;
+    background-image: url('./assets/bgbg.png');
+    background-repeat: no-repeat;
+}
